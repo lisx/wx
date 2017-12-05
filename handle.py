@@ -2,6 +2,8 @@
 # filename: handle.py
 
 import hashlib
+import reply
+import receive
 import web
 
 class Handle(object):
