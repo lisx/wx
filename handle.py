@@ -2,7 +2,7 @@
 # filename: handle.py
 
 import hashlib
-import ../web
+import web
 
 class Handle(object):
     def POST(self):
